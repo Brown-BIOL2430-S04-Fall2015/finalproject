@@ -2,7 +2,7 @@
 
 ## Instructions
 
-This respository is a stub for your final project. Fork it as a template for your project, and develop your code in the forked repository. For details on how to get started and turn in the project, see section 3 of the github education [documentation](https://education.github.com/guide/forks).
+This repository is a stub for your final project. Fork it as a template for your project, and develop your code in the forked repository. For details on how to get started and turn in the project, see section 3 of the github education  [documentation](https://education.github.com/guide/forks).
 
 Expand on the readme questions below to provide an overview of the goals, background, and challenges for the final project. You can delete the questions as you write text that answers them, or leave the prompts in place. You can also delete this instruction section of you like.
 
@@ -43,7 +43,7 @@ Are any data mapped to more than one aesthetic attribute? Why?
 
 ### Motion
 
-If motion is used, what prupose does it serve ( metaphor (eg representing motion in real world) / transition continuity between views / etc )
+If motion is used, what purpose does it serve ( metaphor (eg representing motion in real world) / transition continuity between views / etc )
 
 ### Perspective
 
@@ -51,7 +51,7 @@ To what extent is perspective (eg mappings) controlled by users vs hard coded in
 
 ## Assessment
 
-Whas the new visualization successful at providing insight that was not possible or more difficult with previous approaches?
+Was the new visualization successful at providing insight that was not possible or more difficult with previous approaches?
 
 What are the main limitations of new approach?
 
